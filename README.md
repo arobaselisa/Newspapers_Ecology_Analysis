@@ -2,7 +2,7 @@
 
 ## Abstract
 
-Since its gradual appearance in the public arena in the mid- to late-sixties, ecology gained prominence on the public scene, becoming an unavoidable issue in political debates. Throughout time it has been used to deal with various societal issues reflecting contemporary concerns. Based on long-established knowledge about the ability of language and words' usage to model cultural evolution, we computationally analyze the evolution of ecology's representation in french speaking Swiss society through \textit{écologie} semantic changes within a corpus of newspaper articles. Word embedding reveals observable qualitative drifts in the word's usage. Nonetheless a quantitative approach depending on topic modeling unveils more nuanced results. 
+Since its gradual appearance in the public arena in the mid- to late-sixties, ecology gained prominence on the public scene, becoming an unavoidable issue in political debates. Throughout time it has been used to deal with various societal issues reflecting contemporary concerns. Based on long-established knowledge about the ability of language and words' usage to model cultural evolution, we computationally analyze the evolution of ecology's representation in french speaking Swiss society through *écologie* semantic changes within a corpus of newspaper articles. Word embedding reveals observable qualitative drifts in the word's usage. Nonetheless a quantitative approach depending on topic modeling unveils more nuanced results. 
 
 ## Git contents
 
